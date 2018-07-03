@@ -1,0 +1,22 @@
+{
+  "name": "inofthi-db",
+  "version": "1.0.0",
+  "description": "A Simple IoT Platform - DB Module",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kestaba/inofthi.git"
+  },
+  "author": "kestaba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kestaba/inofthi/issues"
+  },
+  "homepage": "https://github.com/kestaba/inofthi#readme",
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
